@@ -1,0 +1,39 @@
+{"_type":"skill","_id":"skill-python","name":"Python","category":"backend","proficiency":"expert","percentage":95,"yearsOfExperience":4,"color":"#3776AB"}
+{"_type":"skill","_id":"skill-aws","name":"AWS","category":"cloud","proficiency":"expert","percentage":92,"yearsOfExperience":4,"color":"#FF9900"}
+{"_type":"skill","_id":"skill-genai","name":"Generative AI","category":"ai-ml","proficiency":"expert","percentage":93,"yearsOfExperience":2,"color":"#412991"}
+{"_type":"skill","_id":"skill-llm","name":"LLMs","category":"ai-ml","proficiency":"expert","percentage":90,"yearsOfExperience":2,"color":"#7C3AED"}
+{"_type":"skill","_id":"skill-rag","name":"RAG Pipelines","category":"ai-ml","proficiency":"expert","percentage":91,"yearsOfExperience":1,"color":"#8B5CF6"}
+{"_type":"skill","_id":"skill-nextjs","name":"Next.js","category":"frontend","proficiency":"expert","percentage":90,"yearsOfExperience":2,"color":"#000000"}
+{"_type":"skill","_id":"skill-react","name":"React","category":"frontend","proficiency":"expert","percentage":88,"yearsOfExperience":3,"color":"#61DAFB"}
+{"_type":"skill","_id":"skill-django","name":"Django","category":"backend","proficiency":"advanced","percentage":85,"yearsOfExperience":2,"color":"#092E20"}
+{"_type":"skill","_id":"skill-tensorflow","name":"TensorFlow","category":"ai-ml","proficiency":"advanced","percentage":87,"yearsOfExperience":3,"color":"#FF6F00"}
+{"_type":"skill","_id":"skill-deep-learning","name":"Deep Learning","category":"ai-ml","proficiency":"expert","percentage":90,"yearsOfExperience":3,"color":"#FF6F00"}
+{"_type":"skill","_id":"skill-computer-vision","name":"Computer Vision","category":"ai-ml","proficiency":"advanced","percentage":85,"yearsOfExperience":3,"color":"#5C3EE8"}
+{"_type":"skill","_id":"skill-kubernetes","name":"Kubernetes","category":"devops","proficiency":"advanced","percentage":88,"yearsOfExperience":3,"color":"#326CE5"}
+{"_type":"skill","_id":"skill-docker","name":"Docker","category":"devops","proficiency":"expert","percentage":90,"yearsOfExperience":3,"color":"#2496ED"}
+{"_type":"skill","_id":"skill-terraform","name":"Terraform","category":"devops","proficiency":"advanced","percentage":87,"yearsOfExperience":3,"color":"#7B42BC"}
+{"_type":"skill","_id":"skill-azure","name":"Azure Cloud","category":"cloud","proficiency":"advanced","percentage":85,"yearsOfExperience":3,"color":"#0078D4"}
+{"_type":"skill","_id":"skill-opensearch","name":"OpenSearch","category":"database","proficiency":"advanced","percentage":82,"yearsOfExperience":1,"color":"#005EB8"}
+{"_type":"skill","_id":"skill-dynamodb","name":"DynamoDB","category":"database","proficiency":"advanced","percentage":80,"yearsOfExperience":1,"color":"#4053D6"}
+{"_type":"skill","_id":"skill-sql","name":"SQL","category":"database","proficiency":"expert","percentage":90,"yearsOfExperience":4,"color":"#336791"}
+{"_type":"skill","_id":"skill-mongodb","name":"MongoDB","category":"database","proficiency":"advanced","percentage":78,"yearsOfExperience":2,"color":"#47A248"}
+{"_type":"skill","_id":"skill-salesforce","name":"Salesforce","category":"tools","proficiency":"advanced","percentage":80,"yearsOfExperience":1,"color":"#00A1E0"}
+{"_type":"skill","_id":"skill-cicd","name":"CI/CD Pipelines","category":"devops","proficiency":"expert","percentage":92,"yearsOfExperience":3,"color":"#2088FF"}
+{"_type":"skill","_id":"skill-graphql","name":"GraphQL","category":"backend","proficiency":"advanced","percentage":82,"yearsOfExperience":2,"color":"#E10098"}
+{"_type":"skill","_id":"skill-restapi","name":"REST API Design","category":"backend","proficiency":"expert","percentage":93,"yearsOfExperience":4,"color":"#009688"}
+{"_type":"skill","_id":"skill-javascript","name":"JavaScript","category":"frontend","proficiency":"expert","percentage":90,"yearsOfExperience":4,"color":"#F7DF1E"}
+{"_type":"skill","_id":"skill-typescript","name":"TypeScript","category":"frontend","proficiency":"advanced","percentage":82,"yearsOfExperience":2,"color":"#3178C6"}
+{"_type":"skill","_id":"skill-html-css","name":"HTML/CSS","category":"frontend","proficiency":"expert","percentage":92,"yearsOfExperience":4,"color":"#E34F26"}
+{"_type":"skill","_id":"skill-okta","name":"Okta","category":"security","proficiency":"advanced","percentage":83,"yearsOfExperience":1,"color":"#007DC1"}
+{"_type":"skill","_id":"skill-cognito","name":"AWS Cognito","category":"security","proficiency":"advanced","percentage":80,"yearsOfExperience":1,"color":"#FF9900"}
+{"_type":"skill","_id":"skill-git","name":"Git","category":"tools","proficiency":"expert","percentage":95,"yearsOfExperience":4,"color":"#F05032"}
+{"_type":"skill","_id":"skill-linux","name":"Linux/Unix","category":"tools","proficiency":"advanced","percentage":88,"yearsOfExperience":4,"color":"#FCC624"}
+{"_type":"skill","_id":"skill-agile","name":"Agile/Scrum","category":"soft-skills","proficiency":"expert","percentage":90,"yearsOfExperience":4}
+{"_type":"skill","_id":"skill-leadership","name":"Technical Leadership","category":"soft-skills","proficiency":"advanced","percentage":85,"yearsOfExperience":3}
+{"_type":"skill","_id":"skill-data-analysis","name":"Data Analysis","category":"soft-skills","proficiency":"advanced","percentage":87,"yearsOfExperience":4}
+{"_type":"skill","_id":"skill-problem-solving","name":"Problem Solving","category":"soft-skills","proficiency":"expert","percentage":95,"yearsOfExperience":4}
+{"_type":"skill","_id":"skill-communication","name":"Communication","category":"soft-skills","proficiency":"expert","percentage":92,"yearsOfExperience":4}
+{"_type":"skill","_id":"skill-tableau","name":"Tableau","category":"tools","proficiency":"advanced","percentage":80,"yearsOfExperience":1,"color":"#E97627"}
+{"_type":"skill","_id":"skill-android","name":"Android Development","category":"mobile","proficiency":"intermediate","percentage":70,"yearsOfExperience":2,"color":"#3DDC84"}
+{"_type":"skill","_id":"skill-cpp","name":"C/C++","category":"backend","proficiency":"intermediate","percentage":72,"yearsOfExperience":3,"color":"#00599C"}
+{"_type":"skill","_id":"skill-java","name":"Java","category":"backend","proficiency":"intermediate","percentage":75,"yearsOfExperience":3,"color":"#007396"}

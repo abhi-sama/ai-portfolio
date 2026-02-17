@@ -231,7 +231,7 @@ export async function AchievementsSection() {
                         </p>
                       )}
                       {achievement.description && (
-                        <p className="text-muted-foreground mb-4 text-sm @md/card:text-base line-clamp-3">
+                        <p className="text-muted-foreground mb-4 text-sm @md/card:text-base ">
                           {achievement.description}
                         </p>
                       )}
