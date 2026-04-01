@@ -37,3 +37,5 @@
 {"_type":"skill","_id":"skill-android","name":"Android Development","category":"mobile","proficiency":"intermediate","percentage":70,"yearsOfExperience":2,"color":"#3DDC84"}
 {"_type":"skill","_id":"skill-cpp","name":"C/C++","category":"backend","proficiency":"intermediate","percentage":72,"yearsOfExperience":3,"color":"#00599C"}
 {"_type":"skill","_id":"skill-java","name":"Java","category":"backend","proficiency":"intermediate","percentage":75,"yearsOfExperience":3,"color":"#007396"}
+{"_type":"skill","_id":"skill-nodejs","name":"Node.js","category":"backend","proficiency":"expert","percentage":88,"yearsOfExperience":3,"color":"#339933"}
+{"_type":"skill","_id":"skill-postgres","name":"PostgreSQL","category":"database","proficiency":"advanced","percentage":85,"yearsOfExperience":2,"color":"#336791"}
